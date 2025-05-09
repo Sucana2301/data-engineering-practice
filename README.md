@@ -14,6 +14,11 @@ Case-Study 1: Xây dựng pipeline tự động cào và trực quan dữ liệu
 ![image](https://github.com/user-attachments/assets/db4c440a-37c6-419d-9234-321f1241d1d8)
 ![image](https://github.com/user-attachments/assets/5e98250f-e3bc-4c40-9590-d5ebddb771bd)
 
+Case-Study 2: Xây dựng pipeline để tự động cào dữ liệu, huấn luyện mô hình
+
+	https://www.youtube.com/watch?v=LtInPTXfdb8
+![image](https://github.com/user-attachments/assets/77ce7dc5-2569-4ebc-a4a6-b008773505be)
+
 # LAB 9
 ## BÀI LÀM
 >> 1. Đăng nhập vào Github
